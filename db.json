@@ -1,0 +1,24 @@
+{
+  "products" : [
+    {"id":1,"first_name":"Peregrine falcon","category":"Red"},
+    {"id":2,"first_name":"Red-tailed hawk","category":"Puce"},
+    {"id":3,"first_name":"Savanna baboon","category":"Purple"},
+    {"id":4,"first_name":"Great skua","category":"Teal"},
+    {"id":5,"first_name":"Yellow-throated sandgrouse","category":"Mauv"},
+    {"id":6,"first_name":"Legaan, Monitor (unidentified)","category":"Fuscia"},
+    {"id":7,"first_name":"Eurasian beaver","category":"Violet"},
+    {"id":8,"first_name":"Heron, gray","category":"Puce"},
+    {"id":9,"first_name":"Lizard, frilled","category":"Puce"},
+    {"id":10,"first_name":"Hawk-eagle, crowned","category":"Goldenrod"},
+    {"id":11,"first_name":"Mudskipper (unidentified)","category":"Maroon"},
+    {"id":12,"first_name":"Eastern grey kangaroo","category":"Turquoise"},
+    {"id":13,"first_name":"Vulture, bengal","category":"Khaki"},
+    {"id":14,"first_name":"Crocodile, nile","category":"Khaki"},
+    {"id":15,"first_name":"Bee-eater, nubian","category":"Indigo"},
+    {"id":16,"first_name":"Roseate cockatoo","category":"Pink"},
+    {"id":17,"first_name":"White-bellied sea eagle","category":"Indigo"},
+    {"id":18,"first_name":"Southern sea lion","category":"Crimson"},
+    {"id":19,"first_name":"Blue fox","category":"Indigo"},
+    {"id":20,"first_name":"Pocket gopher (unidentified)","category":"Fuscia"}
+  ]
+}
